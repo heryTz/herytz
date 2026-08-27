@@ -1,12 +1,33 @@
-### Hi there 👋
+Full-stack engineer and tech lead, 6 years in. Most of my work is TypeScript,
+with Go when the job calls for it. I've also deployed on Kubernetes and
+instrumented production with OpenTelemetry.
 
-I'm ```Hery```,
+I build the thing I'm missing. That's where most of this came from.
 
-- Passionate JavaScript Developer
-- Active Content Creator
-- Full-time Dad, Part-time Coder
-- Football Addict
+### Things I've built
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=herytz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+- **[backupman](https://github.com/heryTz/backupman)** · [docs](https://herytz.github.io/backupman)  
+  Snapshots your databases, compresses them, and runs on a schedule. Written after a client project lost a database that had no backups.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=herytz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+- **[walletko](https://github.com/heryTz/walletko)** · [live](https://walletko.herynirintsoa.com/)  
+  Splits your income into pots, the way you'd split cash into envelopes. Built when my own budget outgrew spreadsheets.
+
+- **[finance](https://github.com/heryTz/finance)** · [live](https://finance.herynirintsoa.com/)  
+  Tracks spending, budgets and invoices. Started life as a Google Sheet that got too big.
+
+- **[cleancli](https://github.com/heryTz/cleancli)**  
+  Clears caches on macOS, Linux and Windows.
+
+- **[resumable-chunk-upload](https://github.com/heryTz/resumable-chunk-upload)** · [docs](https://herytz.github.io/resumable-chunk-upload/)  
+  Browser-to-backend chunked uploads that keep going across page navigations.
+
+### Elsewhere
+
+I'm in Antananarivo, Madagascar. I lead a squad of three, I'm a full-time dad,
+and what I learn ends up on YouTube, mostly TypeScript and production
+observability.
+
+[herynirintsoa.com](https://herynirintsoa.com) ·
+[YouTube](https://youtube.com/@HeryNirintsoa) ·
+[LinkedIn](https://www.linkedin.com/in/hery-nirintsoa-0813b91a4) ·
+[X](https://x.com/hery_nirintsoa)
