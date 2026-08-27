@@ -1,6 +1,5 @@
 Full-stack engineer and tech lead with **6 years** of experience. Most of my
-work is **TypeScript**, with Go when the job calls for it. I've also deployed on
-Kubernetes and instrumented production with OpenTelemetry.
+work is **TypeScript**, with Go when the job calls for it.
 
 I build the thing I'm missing. That's where most of this came from.
 
